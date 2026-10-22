@@ -1,2 +1,4 @@
-Starta din egen server genom https://github.com/codespaces/new/saedarh9/schoolsss?quickstart=1
-Dina information sparas för senare och utvecklaren kan inte komma åt de
+   Surfa fritt: Ett linux server med Google Chrome där du kan komma åt alla blockerade sidor.
+1. Starta din egen server genom https://github.com/codespaces/new/saedarh9/schoolsss?quickstart=1
+2. INFO: All din data sparas krypterat – skolan ser ingenting och utvecklaren har noll access. 
+3. När du startar detta så går du till länken som är port 6080.
